@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 
     
 
-    res.send("heelo brooooooooooooooooo");
+    res.send("heelo broooo");
 
 
 })
